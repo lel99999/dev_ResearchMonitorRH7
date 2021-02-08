@@ -5,6 +5,8 @@
   tags: nightly
 
 - name: create empty logfile
+  become: yes
+  become_method: sudo
   file:
     dest: "{{ dated_file_name }}"
     state: touch
