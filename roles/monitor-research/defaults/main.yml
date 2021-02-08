@@ -1,4 +1,4 @@
 ---
 research_monitor_output_file_location: outputlocation
-date_stamp: "{{lookup('pipe','date +%Y%m%d%H%M%S'}}"
+date_stamp: "{{lookup('pipe','date +%Y%m%d%H%M%S')}}"
 research_nightly_monitor_locations: searchlocations
