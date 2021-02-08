@@ -1,7 +1,7 @@
 ---
 - name: set variable for dated text file
   set_fact:
-    dated_file_name: "{{ research_monitor_output_file_locaiton }}/{{ date_stamp }}.txt"
+    dated_file_name: "{{ research_monitor_output_file_location }}/{{ date_stamp }}.txt"
   tags: nightly
 
 - name: create empty logfile
