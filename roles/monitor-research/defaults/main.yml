@@ -1,11 +1,11 @@
 ---
 #research_monitor_output_file_location: outputlocation
-research_monitor_output_file_location: /home/work/projects/server_maintenance/space_monitor
+research_monitor_output_file_location: /home/work2/projects/server_maintenance/space_monitor
 date_stamp: "{{lookup('pipe','date +%Y%m%d%H%M%S')}}"
 #research_nightly_monitor_locations: searchlocations
 research_nightly_monitor_locations: 
-  - /home/work/projects
-  - /home/work/projects/Experian/Shared
-  - /home/work/projects/CCDB/Shared
+  - /home/work2/projects
+  - /home/work2/projects/Experian/Shared
+  - /home/work2/projects/CCDB/Shared
   - /home/data/projects
   - /home/cfpb
