@@ -1,6 +1,7 @@
 ---
 #research_monitor_output_file_location: outputlocation
-research_monitor_output_file_location: /home/work2/projects/server_maintenance/space_monitor
+#research_monitor_output_file_location: /home/work2/projects/server_maintenance/space_monitor
+research_monitor_output_file_location: /tmp
 date_stamp: "{{lookup('pipe','date +%Y%m%d%H%M%S')}}"
 #research_nightly_monitor_locations: searchlocations
 research_nightly_monitor_locations: 
