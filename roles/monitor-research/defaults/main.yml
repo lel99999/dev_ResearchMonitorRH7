@@ -7,7 +7,7 @@ date_stamp: "{{lookup('pipe','date +%Y%m%d%H%M%S')}}"
 research_nightly_monitor_locations: 
 # - /home/work2/projects
   - /home/work2/projects/Experian/Shared
-# - /home/work2/projects/CCDB/Shared
+  - /home/work2/projects/CCDB/Shared
 # - /home/data/projects
 # - /home/cfpb
 # - /home/data2/projects
