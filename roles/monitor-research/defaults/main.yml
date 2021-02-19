@@ -9,5 +9,5 @@ research_nightly_monitor_locations:
   - /home/work2/projects/Experian/Shared
   - /home/work2/projects/CCDB/Shared
 # - /home/data/projects
-# - /home/cfpb
+  - /home/cfpb
 # - /home/data2/projects
