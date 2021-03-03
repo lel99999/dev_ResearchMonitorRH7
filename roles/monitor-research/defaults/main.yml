@@ -10,4 +10,4 @@ research_nightly_monitor_locations:
   - /home/work2/projects/CCDB/Shared
 # - /home/data/projects
   - /home/cfpb
-# - /home/data2/projects
+  - /home/data2/projects
