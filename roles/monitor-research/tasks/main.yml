@@ -13,7 +13,7 @@
   tags: nightly
 
 - name: folder sizes for nightly monitor script for research environment
-# shell: "du --max-depth=2 {{ item }} >> {{ dated_file_name }}"
-  shell: "du --max-depth=1 {{ item }} >> {{ dated_file_name }}"
+  shell: "du --max-depth=2 {{ item }} >> {{ dated_file_name }}"
+# shell: "du --max-depth=1 {{ item }} >> {{ dated_file_name }}"
   with_items: "{{ research_nightly_monitor_locations }}"
   tags: nightly
