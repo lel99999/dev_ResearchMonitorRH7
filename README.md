@@ -6,9 +6,16 @@ Research Monitoring Development
 - CPU Utilization
 - Persistence Storage Consumed/Free
 - Network Bandwidth and Latency
-#### Application Monitoring
+
+#### Application Monitoring aka (APM)
 - Apache Skywalking [https://skywalking.apache.org/](https://skywalking.apache.org/) <br/>
 - Pinpoint [https://github.com/pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) <br/>
+- Java Melody [https://github.com/javamelody/javamelody](https://github.com/javamelody/javamelody) <br/>
+- Stagemonitor [https://www.stagemonitor.org/](https://www.stagemonitor.org/) <br/>
+- Codespeed (Python) [https://github.com/tobami/codespeed](https://github.com/tobami/codespeed) <br/>
+- Scouter [https://github.com/scouter-project/scouter](https://github.com/scouter-project/scouter) <br/>
+- App Metrics (.Net) [https://www.app-metrics.io/](https://www.app-metrics.io/) <br/>
+- GoAppMonitor (Go) [https://github.com/wgliang/goappmonitor](https://github.com/wgliang/goappmonitor) <br/>
 
 #### Open Source Monitoring
 - Sentry started life as a Python-only monitoring project but can now be used for any programming language. [https://github.com/getsentry/sentry](https://github.com/getsentry/sentry) <br/>
