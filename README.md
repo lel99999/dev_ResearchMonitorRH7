@@ -17,11 +17,17 @@ Research Monitoring Development
 - App Metrics (.Net) [https://www.app-metrics.io/](https://www.app-metrics.io/) <br/>
 - GoAppMonitor (Go) [https://github.com/wgliang/goappmonitor](https://github.com/wgliang/goappmonitor) <br/>
 
+#### Python Based Agents and Agent Library/Frameworks/Projects
+- [https://pypi.org/project/agent/](https://pypi.org/project/agent/)
+- [https://pypi.org/project/spade/](https://pypi.org/project/spade/)
+- [https://pade.readthedocs.io/en/latest/](https://pade.readthedocs.io/en/latest/)
+- [https://mesa.readthedocs.io/en/stable/](https://mesa.readthedocs.io/en/stable/)
+
 #### Open Source Monitoring
 - Sentry started life as a Python-only monitoring project but can now be used for any programming language. [https://github.com/getsentry/sentry](https://github.com/getsentry/sentry) <br/>
 - Service Canary [https://servicecanary.com/](https://servicecanary.com/) <br/>
 - ping.gg [https://ping.gg/](https://ping.gg/) <br/>
-- glance [https://nicolargo.github.io/glances/](https://nicolargo.github.io/glances/) <br/>s
+- glance [https://nicolargo.github.io/glances/](https://nicolargo.github.io/glances/) <br/>
 - statsd  is a node.js network daemon that listens for metrics and aggregates them for transfer into another service such as Graphite. [https://github.com/etsy/statsd/](https://github.com/etsy/statsd/) <br/>
 - Graphite stores time-series data and displays them in graphs through a Django web application. [https://graphite.readthedocs.org/en/latest/overview.html](https://graphite.readthedocs.org/en/latest/overview.html) <br/>
 - Sensu is an open source monitoring framework written in Ruby but applicable to any programming language web application [http://sensuapp.org/](http://sensuapp.org/) <br/> 
